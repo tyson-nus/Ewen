@@ -1,4 +1,4 @@
-# Bisat
+# Ewen
 
 This repository contains the upcoming anonymous code release for **Bisat**, an EEG foundation model that connects language reasoning with EEG-conditioned modeling.
 
