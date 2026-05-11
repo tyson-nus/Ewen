@@ -5,13 +5,12 @@ This repository is a cleaned and simplified version of the Ewen project. The cod
 ## Directory Overview
 
 ```text
-Ewen_clean/
+Ewen/
 ├── ewen/          Main Python package for the project
 │   ├── data/      Data loading, channel configuration, covariate descriptors, prompt templates, and dataset definitions
 │   ├── model/     Model components, including the VQ tokenizer, covariate modules, position encoding, LoRA, and the main Ewen model
 │   ├── train/     Training entry points for VQ training, pretraining, instruction tuning, and open-ended generation
 │   └── utils/     Shared utilities, including losses, metrics, schedulers, random seeding, and tokenizer helpers
-└── tests/         Basic tests and smoke tests for checking the main training workflow
 ```
 
 ## Root Files
