@@ -1,6 +1,6 @@
-# Ewen Clean
+# Ewen
 
-This repository is a cleaned and simplified version of the Ewen project. The codebase is still under active development and will be gradually improved over time.
+The codebase is still under active development and will be gradually improved over time.
 
 ## Directory Overview
 
