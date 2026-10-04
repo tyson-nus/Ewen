@@ -7,7 +7,7 @@ The codebase is still under active development and will be gradually improved ov
 ```text
 ewen/
 ├── ewen_repro/    Main Python package for data loading, modeling, and training
-├── configs/       Empty configuration directory
+├── configs/       Configuration directory
 └── scripts/       Pretraining, classification, generation, and ablation experiments
 ```
 
